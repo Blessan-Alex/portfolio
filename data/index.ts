@@ -72,14 +72,22 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "Junko - Industrial Packaging",
-    des: "Industrial Packaging Solutions.",
-    img: "/Junko.jpg",
+    title: "Matzah Caterers",
+    des: "Premium catering services with a delightful culinary experience.",
+    img: "/matzah.jpg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg"],
-    link: "https://junko-web.vercel.app/",
+    link: "https://www.matzahcaterers.in/",
   },
   {
     id: 2,
+    title: "Junko - Industrial Packaging",
+    des: "Industrial Packaging Solutions.",
+    img: "/Junko.jpg",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
+    link: "https://www.junko-fze.com/",
+  },
+  {
+    id: 3,
     title: "Wholecoiner",
     des: "Clarity for your Crypto Portfolio. Systematically accumulate 1 full BTC, ETH, or SOL.",
     img: "/wholecoiner.jpg",
@@ -87,20 +95,12 @@ export const projects = [
     link: "https://wholecoiner.vercel.app/",
   },
   {
-    id: 3,
-    title: "SurePay",
-    des: "Secure Freelancer Payments. Ensuring trust and timely payments.",
-    img: "/surepay.jpg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg"],
-    link: "https://surepay-chi.vercel.app/",
-  },
-  {
     id: 4,
-    title: "SettleUp",
-    des: "The Easiest Way to Settle Friendly Bets. Lock coins with friends for quick, trustless settlements.",
-    img: "/SettleUp.jpg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
-    link: "https://settleupnow.vercel.app/",
+    title: "Hotel Indraprastha",
+    des: "Experience luxury and comfort at Hotel Indraprastha, your perfect stay.",
+    img: "/indraprastha.jpg",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg"],
+    link: "https://indraprasthaktm.com/hotel",
   },
 ];
 
